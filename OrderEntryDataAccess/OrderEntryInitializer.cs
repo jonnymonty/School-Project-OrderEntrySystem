@@ -12,20 +12,9 @@ namespace OrderEntryDataAccess
             {
                 new Location { Name = "NTC Bookstore", City = "Wausau", State = "WI", Description = "The school bookstore." },
                 new Location { Name = "Warehouse", City = "Wausau", State = "WI", Description = "The school bookstore's storage warehouse." },
-                new Location { Name = "Processing room", City = "Wausau", State = "WI", Description = "The room for processing placed orders." }
             };
 
             context.Locations.AddRange(locations);
-            context.SaveChanges();
-
-            var brands = new List<Brand>
-            {
-                new Brand { Name = "Cycleurope" },
-                new Brand { Name = "Derby Cycle" },
-                new Brand { Name = "Dorel Industries" }
-            };
-
-            context.Brands.AddRange(brands);
             context.SaveChanges();
 
             var categories = new List<Category>
@@ -38,11 +27,11 @@ namespace OrderEntryDataAccess
             context.Categories.AddRange(categories);
             context.SaveChanges();
 
-            var products = new List<Bike>
+            var products = new List<Product>
             {
-                new Bike { Name = "Big Wheels", Condition = Condition.Poor, Description = "A bike for a kid.", Price = 50.00m, LocationId = 1, Quantity = 5, BrandId = 2 },
-                new Bike { Name = "Model 21x", Condition = Condition.Excellent, Description = "yadda yadda.", Price = 250.00m, LocationId = 1, Quantity = 5, BrandId = 1 },
-                new Bike { Name = "Model 50y", Condition = Condition.Poor, Description = "yadda yadda.", Price = 250.00m, LocationId = 2, Quantity = 5, BrandId = 1 }
+                new Product { Name = "16GB Flash Drive", Condition = Condition.Poor, Description = "A portable flash drive adorned with the NTC logo.", Price = 15.00m, LocationId = 1 },
+                new Product { Name = "Coffee Mug", Condition = Condition.Poor, Description = "A sleek mug adorned with the NTC logo.", Price = 9.50m, LocationId = 1 },
+                new Product { Name = "T-Shirt", Condition = Condition.Poor, Description = "A stylish t-shirt showing off your school pride, adorned with an NTC logo.", Price = 18.50m, LocationId = 2 }
             };
 
             context.Products.AddRange(products);
@@ -69,8 +58,8 @@ namespace OrderEntryDataAccess
 
             var orders = new List<Order>
             {
-                new Order { CustomerId = 1, Status = OrderStatus.Pending },
-                new Order { CustomerId = 2, Status = OrderStatus.Pending }
+                new Order { CustomerId = 1, Status = OrderStatus.Processing },
+                new Order { CustomerId = 2, Status = OrderStatus.Processing }
             };
 
             context.Orders.AddRange(orders);

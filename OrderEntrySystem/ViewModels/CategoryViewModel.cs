@@ -1,74 +1,58 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows;
 using OrderEntryDataAccess;
 using OrderEntryEngine;
 
 namespace OrderEntrySystem
 {
-    public class CategoryViewModel : EntityViewModel<Category>
+    public class CategoryViewModel : WorkspaceViewModel
     {
-        //private Category category;
+        private Category category;
 
-        //private bool isSelected;
+        private Repository repository;
 
-        public CategoryViewModel(Category category)
-            : base("New product category", category)
+        private bool isSelected;
+
+        public CategoryViewModel(Category category, Repository repository)
+            : base("New product category")
         {
-            this.Entity = category;
-        }
-
-        public string Error
-        {
-            get
-            {
-                return this.Entity.Error;
-            }
-        }
-
-        public string this[string propertyName]
-        {
-            get
-            {
-                return this.Entity[propertyName];
-            }
+            this.category = category;
+            this.repository = repository;
         }
 
         public Category Category
         {
             get
             {
-                return this.Entity;
+                return this.category;
             }
         }
 
-        //public bool IsSelected
-        //{
-        //    get
-        //    {
-        //        return this.isSelected;
-        //    }
-        //    set
-        //    {
-        //        this.isSelected = value;
-        //        this.OnPropertyChanged("IsSelected");
-        //    }
-        //}
+        public bool IsSelected
+        {
+            get
+            {
+                return this.isSelected;
+            }
+            set
+            {
+                this.isSelected = value;
+                this.OnPropertyChanged("IsSelected");
+            }
+        }
 
-        [EntityControlAttribute(ControlType.TextBox, "Name: ", 1), EntityColumn(25, "Name", 1)]
         public string Name
         {
             get
             {
-                return this.Entity.Name;
+                return this.category.Name;
             }
             set
             {
-                this.Entity.Name = value;
+                this.category.Name = value;
                 this.OnPropertyChanged("Name");
             }
         }
@@ -76,49 +60,32 @@ namespace OrderEntrySystem
         /// <summary>
         /// Creates the commands needed for the product category view model.
         /// </summary>
-        //protected override void CreateCommands()
-        //{
-        //    this.Commands.Add(new CommandViewModel("OK", new DelegateCommand(p => this.OkExecute()), true, false, "default"));
-        //    this.Commands.Add(new CommandViewModel("Cancel", new DelegateCommand(p => this.CancelExecute()), false, true, "default"));
-        //}
+        protected override void CreateCommands()
+        {
+            this.Commands.Add(new CommandViewModel("OK", new DelegateCommand(p => this.OkExecute())));
+            this.Commands.Add(new CommandViewModel("Cancel", new DelegateCommand(p => this.CancelExecute())));
+        }
 
-        //private bool Save()
-        //{
-        //    bool result = true;
+        private void Save()
+        {
+            // Add product category to repository.
+            this.repository.AddCategory(this.category);
 
-        //    IRepository irepository = RepositoryManager.GetRepository(typeof(Category));
-        //    Repository<Category> repository = (Repository<Category>)irepository;
+            this.repository.SaveToDatabase();
+        }
 
-        //    if (this.Category.IsValid)
-        //    {
-        //        // Add product category to repository.
-        //        repository.AddEntity(this.Entity);
-
-        //        repository.SaveToDatabase();
-        //    }
-        //    else
-        //    {
-        //        MessageBox.Show("One or more properties are invalid. Customer could not be saved.");
-        //        result = false;
-        //    }
-
-        //    return result;
-        //}
-
-        //private void OkExecute()
-        //{
-        //    if (this.Save())
-        //    {
-        //        this.CloseAction(true);
-        //    }
-        //}
+        private void OkExecute()
+        {
+            this.Save();
+            this.CloseAction(true);
+        }
 
         /// <summary>
         /// Closes the window without saving.
         /// </summary>
-        //private void CancelExecute()
-        //{
-        //    this.CloseAction(false);
-        //}
+        private void CancelExecute()
+        {
+            this.CloseAction(false);
+        }
     }
 }

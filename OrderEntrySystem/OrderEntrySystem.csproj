@@ -55,31 +55,19 @@
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
-    <Reference Include="UIAutomationProvider" />
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
-    <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Utilities\ControlType.cs" />
-    <Compile Include="Utilities\DecimalToStringConverter.cs" />
     <Compile Include="Utilities\DelegateCommand.cs" />
-    <Compile Include="Utilities\DisplayUtil.cs" />
-    <Compile Include="Utilities\DoubleToStringConverter.cs" />
-    <Compile Include="Utilities\EntityColumnAttribute.cs" />
-    <Compile Include="Utilities\EntityControlAttribute.cs" />
-    <Compile Include="Utilities\EnumToStringConverter.cs" />
-    <Compile Include="Utilities\ReflectionUtil.cs" />
     <Compile Include="ViewModels\AddCategoryViewModel.cs" />
-    <Compile Include="ViewModels\EntityViewModel.cs" />
-    <Compile Include="ViewModels\Framework\PagingViewModel.cs" />
-    <Compile Include="ViewModels\Interfaces\IMultiEntityViewModel.cs" />
-    <Compile Include="ViewModels\MultiEntityViewModel.cs" />
+    <Compile Include="ViewModels\MultiOrderLineViewModel.cs" />
+    <Compile Include="ViewModels\MultiCategoryViewModel.cs" />
     <Compile Include="ViewModels\OrderLineViewModel.cs" />
     <Compile Include="ViewModels\CustomerViewModel.cs" />
     <Compile Include="ViewModels\Framework\CommandViewModel.cs" />
@@ -87,26 +75,49 @@
     <Compile Include="ViewModels\Framework\ViewModel.cs" />
     <Compile Include="ViewModels\Framework\WorkspaceViewModel.cs" />
     <Compile Include="ViewModels\LocationViewModel.cs" />
+    <Compile Include="ViewModels\MultiCustomerViewModel.cs" />
+    <Compile Include="ViewModels\MultiLocationViewModel.cs" />
+    <Compile Include="ViewModels\MultiOrderViewModel.cs" />
     <Compile Include="ViewModels\OrderViewModel.cs" />
     <Compile Include="ViewModels\CategoryViewModel.cs" />
-    <Compile Include="ViewModels\ReportViewModel.cs" />
     <Compile Include="Views\AddCategoryView.xaml.cs">
       <DependentUpon>AddCategoryView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\EntityView.xaml.cs">
-      <DependentUpon>EntityView.xaml</DependentUpon>
+    <Compile Include="Views\MultiOrderLineView.xaml.cs">
+      <DependentUpon>MultiOrderLineView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\MultiEntityView.xaml.cs">
-      <DependentUpon>MultiEntityView.xaml</DependentUpon>
+    <Compile Include="Views\MultiCategoryView.xaml.cs">
+      <DependentUpon>MultiCategoryView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\NumberOfItemsSelectedView.xaml.cs">
       <DependentUpon>NumberOfItemsSelectedView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\PagingView.xaml.cs">
-      <DependentUpon>PagingView.xaml</DependentUpon>
+    <Compile Include="Views\OrderLineView.xaml.cs">
+      <DependentUpon>OrderLineView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\ReportView.xaml.cs">
-      <DependentUpon>ReportView.xaml</DependentUpon>
+    <Compile Include="Views\CustomerView.xaml.cs">
+      <DependentUpon>CustomerView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\LocationView.xaml.cs">
+      <DependentUpon>LocationView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MultiCustomerView.xaml.cs">
+      <DependentUpon>MultiCustomerView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MultiProductView.xaml.cs">
+      <DependentUpon>MultiProductView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MultiLocationView.xaml.cs">
+      <DependentUpon>MultiLocationView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MultiOrderView.xaml.cs">
+      <DependentUpon>MultiOrderView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\OrderView.xaml.cs">
+      <DependentUpon>OrderView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\CategoryView.xaml.cs">
+      <DependentUpon>CategoryView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\WorkspaceWindow.xaml.cs">
       <DependentUpon>WorkspaceWindow.xaml</DependentUpon>
@@ -115,11 +126,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Views\EntityView.xaml">
+    <Page Include="Views\MultiOrderLineView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Views\MultiEntityView.xaml">
+    <Page Include="Views\MultiCategoryView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -127,7 +138,23 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Views\PagingView.xaml">
+    <Page Include="Views\OrderLineView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\CustomerView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\CategoryView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ProductView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\LocationView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -140,11 +167,31 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ViewModels\ProductViewModel.cs" />
+    <Compile Include="ViewModels\MultiProductViewModel.cs" />
+    <Compile Include="Views\ProductView.xaml.cs">
+      <DependentUpon>ProductView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Views\ReportView.xaml">
+    <Page Include="Views\MultiCustomerView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\MultiProductView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\MultiLocationView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\MultiOrderView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\OrderView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

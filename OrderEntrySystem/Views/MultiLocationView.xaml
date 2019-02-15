@@ -14,7 +14,7 @@
                 <Grid DockPanel.Dock="Bottom">
                     <local:NumberOfItemsSelectedView/>
                 </Grid>
-                <ListView ItemContainerStyle="{StaticResource ResourceKey=ListViewStyle}" ItemsSource="{Binding Path=AllEntities}">
+                <ListView ItemContainerStyle="{StaticResource ResourceKey=ListViewStyle}" ItemsSource="{Binding Path=AllLocations}">
                     <ListView.View>
                         <GridView>
                             <GridViewColumn Header="Name" Width="55" DisplayMemberBinding="{Binding Path=Name}" />

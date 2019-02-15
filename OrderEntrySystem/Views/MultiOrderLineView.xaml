@@ -14,13 +14,13 @@
             <Grid DockPanel.Dock="Bottom">
                 <local:NumberOfItemsSelectedView/>
             </Grid>
-            <ListView ItemContainerStyle="{StaticResource ResourceKey=ListViewStyle}" ItemsSource="{Binding Path=AllEntities}">
+            <ListView ItemContainerStyle="{StaticResource ResourceKey=ListViewStyle}" ItemsSource="{Binding Path=AllLines}">
                 <ListView.View>
                     <GridView>
-                        <GridViewColumn Header="Product" Width="120" DisplayMemberBinding="{Binding Path=Product}" />
+                        <GridViewColumn Header="Product" Width="75" DisplayMemberBinding="{Binding Path=Product}" />
                         <GridViewColumn Header="Quantity" Width="55" DisplayMemberBinding="{Binding Path=Quantity}" />
-                        <GridViewColumn Header="Total" Width="60" DisplayMemberBinding="{Binding Path=ProductTotal}"/>
-                        <GridViewColumn Header="Tax" Width="50" DisplayMemberBinding="{Binding Path=TaxTotal}" />
+                        <GridViewColumn Header="Subtotal" Width="60" DisplayMemberBinding="{Binding Path=ProductTotal}"/>
+                        <GridViewColumn Header="Tax" Width="45" DisplayMemberBinding="{Binding Path=TaxTotal}"/>
                     </GridView>
                 </ListView.View>
             </ListView>

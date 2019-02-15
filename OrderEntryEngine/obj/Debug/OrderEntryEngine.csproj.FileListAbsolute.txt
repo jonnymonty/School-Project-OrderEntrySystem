@@ -1,88 +1,20 @@
-E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
-E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.dll
-E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
-E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.xml
-E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
-E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\bin\Debug\EntityFramework.dll
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\bin\Debug\EntityFramework.xml
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csproj.CoreCompileInputs.cache
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csproj.CoreCompileInputs.cache
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.xml
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\bin\Debug\EntityFramework.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\bin\Debug\EntityFramework.xml
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csproj.CoreCompileInputs.cache
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csproj.CoreCompileInputs.cache
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\bin\Debug\EntityFramework.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\bin\Debug\EntityFramework.xml
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\bin\Debug\EntityFramework.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\bin\Debug\EntityFramework.xml
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csproj.CoreCompileInputs.cache
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.dll
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.xml
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csproj.CoreCompileInputs.cache
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
-E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.dll
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.xml
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csproj.CoreCompileInputs.cache
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csproj.CopyComplete
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
-F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
+C:\Users\enduser\Desktop\Jonnys Temp Stuff\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
+C:\Users\enduser\Desktop\Jonnys Temp Stuff\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
+C:\Users\enduser\Desktop\Jonnys Temp Stuff\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\EntityFramework.dll
+C:\Users\enduser\Desktop\Jonnys Temp Stuff\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\enduser\Desktop\Jonnys Temp Stuff\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\EntityFramework.xml
+C:\Users\enduser\Desktop\Jonnys Temp Stuff\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\enduser\Desktop\Jonnys Temp Stuff\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
+C:\Users\enduser\Desktop\Jonnys Temp Stuff\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
+C:\Users\enduser\Desktop\Jonnys Temp Stuff\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\EntityFramework.dll
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\EntityFramework.xml
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csproj.CoreCompileInputs.cache
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.csproj.CopyComplete
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
+F:\College Year 3\Software Architecture\LP 3\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\SA OrderEntrySystem - Monty\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb

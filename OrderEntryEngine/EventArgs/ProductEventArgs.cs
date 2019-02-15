@@ -8,11 +8,11 @@ namespace OrderEntryEngine
 {
     public class ProductEventArgs
     {
-        public ProductEventArgs(Bike product)
+        public ProductEventArgs(Product product)
         {
             this.Product = product;
         }
 
-        public Bike Product { get; private set; }
+        public Product Product { get; private set; }
     }
 }

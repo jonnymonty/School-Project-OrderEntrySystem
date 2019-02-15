@@ -1,108 +1,107 @@
 ﻿using System.Collections.ObjectModel;
-using System.ComponentModel;
 using System.Linq;
-using System.Windows;
 using OrderEntryDataAccess;
 using OrderEntryEngine;
-using OrderEntrySystem.Views;
 
 namespace OrderEntrySystem
 {
-    public class CustomerViewModel : EntityViewModel<Customer>
+    public class CustomerViewModel : WorkspaceViewModel
     {
         /// <summary>
         /// The car being shown.
         /// </summary>
-        //private Customer customer;
+        private Customer customer;
 
         /// <summary>
         /// The car view model's database repository.
         /// </summary>
-        //private Repository repository;
+        private Repository repository;
 
-        private MultiEntityViewModel<Order, OrderViewModel, EntityView> filteredOrderViewModel;
+        /// <summary>
+        /// An indicator of whether or not an car is selected.
+        /// </summary>
+        private bool isSelected;
+
+        private MultiOrderViewModel filteredOrderViewModel;
 
         /// <summary>
         /// Initializes a new instance.
         /// </summary>
         /// <param name="customer">The car to be shown.</param>
         /// <param name="repository">The car repository.</param>
-        public CustomerViewModel(Customer customer)
-            : base("New customer", customer)
+        public CustomerViewModel(Customer customer, Repository repository)
+            : base("New customer")
         {
-            this.Entity = customer;
-            this.filteredOrderViewModel = new MultiEntityViewModel<Order, OrderViewModel, EntityView>();
-            this.filteredOrderViewModel.AllEntities = this.FilteredOrders;
+            this.customer = customer;
+            this.repository = repository;
+            this.filteredOrderViewModel = new MultiOrderViewModel(this.repository, this.customer);
+            this.filteredOrderViewModel.AllOrders = this.FilteredOrders;
         }
 
-        public string Error
-        {
-            get
-            {
-                return this.Entity.Error;
-            }
-        }
-
-        public string this[string propertyName]
+        /// <summary>
+        /// Gets or sets a value indicating whether this car is selected in the UI.
+        /// </summary>
+        public bool IsSelected
         {
             get
             {
-                return this.Entity[propertyName];
+                return this.isSelected;
+            }
+            set
+            {
+                this.isSelected = value;
+                this.OnPropertyChanged("IsSelected");
             }
         }
 
-        [EntityControlAttribute(ControlType.TextBox, "First Name: ", 1), EntityColumn(25, "FirstName", 1)]
         public string FirstName
         {
             get
             {
-                return this.Entity.FirstName;
+                return this.customer.FirstName;
             }
             set
             {
-                this.Entity.FirstName = value;
+                this.customer.FirstName = value;
                 this.OnPropertyChanged("FirstName");
             }
         }
 
-        [EntityControlAttribute(ControlType.TextBox, "Last Name: ", 2), EntityColumn(25, "LastName", 1)]
         public string LastName
         {
             get
             {
-                return this.Entity.LastName;
+                return this.customer.LastName;
             }
             set
             {
-                this.Entity.LastName = value;
+                this.customer.LastName = value;
                 this.OnPropertyChanged("LastName");
             }
         }
 
-        [EntityControlAttribute(ControlType.TextBox, "Phone: ", 3), EntityColumn(25, "Phone", 1)]
         public string Phone
         {
             get
             {
-                return this.Entity.Phone;
+                return this.customer.Phone;
             }
             set
             {
-                this.Entity.Phone = value;
+                this.customer.Phone = value;
                 this.OnPropertyChanged("Phone");
             }
         }
 
-        [EntityControlAttribute(ControlType.TextBox, "Email: ", 4), EntityColumn(25, "Email", 1)]
         public string Email
         {
             get
             {
-                return this.Entity.Email;
+                return this.customer.Email;
             }
             set
             {
-                this.Entity.Email = value;
+                this.customer.Email = value;
                 this.OnPropertyChanged("Email");
             }
         }
@@ -112,8 +111,8 @@ namespace OrderEntrySystem
             get
             {
                 var orders =
-                    (from o in this.Entity.Orders
-                    select new OrderViewModel(o)).ToList();
+                    (from o in this.customer.Orders
+                    select new OrderViewModel(o, this.repository)).ToList();
 
                 this.FilteredOrderViewModel.AddPropertyChangedEvent(orders);
 
@@ -121,7 +120,7 @@ namespace OrderEntrySystem
             }
         }
 
-        public MultiEntityViewModel<Order, OrderViewModel, EntityView> FilteredOrderViewModel
+        public MultiOrderViewModel FilteredOrderViewModel
         {
             get
             {
@@ -129,44 +128,41 @@ namespace OrderEntrySystem
             }
         }
 
-        [EntityControlAttribute(ControlType.TextBox, "Address: ", 5), EntityColumn(25, "Address", 1)]
         public string Address
         {
             get
             {
-                return this.Entity.Address;
+                return this.customer.Address;
             }
             set
             {
-                this.Entity.Address = value;
+                this.customer.Address = value;
                 this.OnPropertyChanged("Address");
             }
         }
 
-        [EntityControlAttribute(ControlType.TextBox, "City: ", 6), EntityColumn(25, "City", 1)]
         public string City
         {
             get
             {
-                return this.Entity.City;
+                return this.customer.City;
             }
             set
             {
-                this.Entity.City = value;
+                this.customer.City = value;
                 this.OnPropertyChanged("City");
             }
         }
 
-        [EntityControlAttribute(ControlType.TextBox, "State: ", 7), EntityColumn(25, "State", 1)]
         public string State
         {
             get
             {
-                return this.Entity.State;
+                return this.customer.State;
             }
             set
             {
-                this.Entity.State = value;
+                this.customer.State = value;
                 this.OnPropertyChanged("State");
             }
         }
@@ -175,62 +171,45 @@ namespace OrderEntrySystem
         {
             get
             {
-                return this.Entity;
+                return this.customer;
             }
         }
 
         /// <summary>
         /// Creates the commands needed for the car view model.
         /// </summary>
-        //protected override void CreateCommands()
-        //{
-        //    this.Commands.Add(new CommandViewModel("OK", new DelegateCommand(p => this.OkExecute()), true, false, "default"));
-        //    this.Commands.Add(new CommandViewModel("Cancel", new DelegateCommand(p => this.CancelExecute()), false, true, "default"));
-        //}
+        protected override void CreateCommands()
+        {
+            this.Commands.Add(new CommandViewModel("OK", new DelegateCommand(p => this.OkExecute())));
+            this.Commands.Add(new CommandViewModel("Cancel", new DelegateCommand(p => this.CancelExecute())));
+        }
 
-        ///// <summary>
-        ///// Saves the car view model's car to the repository.
-        ///// </summary>
-        //private bool Save()
-        //{
-        //    bool result = true;
+        /// <summary>
+        /// Saves the car view model's car to the repository.
+        /// </summary>
+        private void Save()
+        {
+            // Add customer to repository.
+            this.repository.AddCustomer(this.customer);
 
-        //    IRepository irepository = RepositoryManager.GetRepository(typeof(Customer));
-        //    Repository<Customer> repository = (Repository<Customer>)irepository;
-
-        //    if (this.Customer.IsValid)
-        //    {
-        //        // Add customer to repository.
-        //        repository.AddEntity(this.Entity);
-
-        //        repository.SaveToDatabase();
-        //    }
-        //    else
-        //    {
-        //        MessageBox.Show("One or more properties are invalid. Customer could not be saved.");
-        //        result = false;
-        //    }
-
-        //    return result;
-        //}
+            this.repository.SaveToDatabase();
+        }
 
         /// <summary>
         /// Saves the car and closes the new car window.
         /// </summary>
-        //private void OkExecute()
-        //{
-        //    if (this.Save())
-        //    {
-        //        this.CloseAction(true);
-        //    }
-        //}
+        private void OkExecute()
+        {
+            this.Save();
+            this.CloseAction(true);
+        }
 
-        ///// <summary>
-        ///// Closes the new customer window without saving.
-        ///// </summary>
-        //private void CancelExecute()
-        //{
-        //    this.CloseAction(false);
-        //}
+        /// <summary>
+        /// Closes the new customer window without saving.
+        /// </summary>
+        private void CancelExecute()
+        {
+            this.CloseAction(false);
+        }
     }
 }

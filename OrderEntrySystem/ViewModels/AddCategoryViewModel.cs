@@ -10,11 +10,14 @@ namespace OrderEntrySystem
 {
     public class AddCategoryViewModel : WorkspaceViewModel
     {
-        private Bike product;
+        private Repository repository;
 
-        public AddCategoryViewModel(Bike product)
+        private Product product;
+
+        public AddCategoryViewModel(Repository repository, Product product)
             : base("Add category")
         {
+            this.repository = repository;
             this.product = product;
         }
 
@@ -24,10 +27,7 @@ namespace OrderEntrySystem
         {
             get
             {
-                IRepository irepository = RepositoryManager.GetRepository(typeof(Category));
-                Repository<Category> repository = (Repository<Category>)irepository;
-
-                return repository.GetEntities();
+                return this.repository.GetCategories();
             }
         }
 
@@ -36,23 +36,20 @@ namespace OrderEntrySystem
         /// </summary>
         protected override void CreateCommands()
         {
-            this.Commands.Add(new CommandViewModel("OK", new DelegateCommand(p => this.OkExecute()), true, false, "default"));
-            this.Commands.Add(new CommandViewModel("Cancel", new DelegateCommand(p => this.CancelExecute()), false, true, "default"));
+            this.Commands.Add(new CommandViewModel("OK", new DelegateCommand(p => this.OkExecute())));
+            this.Commands.Add(new CommandViewModel("Cancel", new DelegateCommand(p => this.CancelExecute())));
         }
 
         private void Save()
         {
             ProductCategory pc = new ProductCategory();
 
-            IRepository irepository = RepositoryManager.GetRepository(typeof(ProductCategory));
-            Repository<ProductCategory> repository = (Repository<ProductCategory>)irepository;
-
             pc.Category = this.Category;
             pc.Product = this.product;
 
-            repository.AddEntity(pc);
+            this.repository.AddProductCategory(pc);
 
-            repository.SaveToDatabase();
+            this.repository.SaveToDatabase();
         }
 
         private void OkExecute()

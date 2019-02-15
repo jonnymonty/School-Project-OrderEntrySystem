@@ -4,8 +4,7 @@ using System.Linq;
 
 namespace OrderEntryEngine
 {
-    [Serializable]
-    public class Order : IEntity
+    public class Order
     {
         private decimal shippingAmount;
 
@@ -18,17 +17,19 @@ namespace OrderEntryEngine
             this.Lines = new List<OrderLine>();
         }
 
-        public int Id { get; set; }
-
-        public int CustomerId { get; set; }
-
-        public virtual Customer Customer { get; set; }
-
-        public virtual ICollection<OrderLine> Lines { get; set; }
-
-        public OrderStatus Status { get; set; }
-
-        public bool IsArchived { get; set; }
+        public void Post()
+        {
+            if (this.Status == OrderStatus.Processing)
+            {
+                this.Status = OrderStatus.Shipped;
+                foreach (OrderLine l in this.Lines)
+                {
+                    l.Post();
+                    l.CalculateTax();
+                }
+                this.CalculateTotals();
+            }
+        }
 
         public decimal ShippingAmount
         {
@@ -70,41 +71,26 @@ namespace OrderEntryEngine
         {
             get
             {
-                return this.ProductTotal + this.TaxTotal + this.ShippingAmount;
+                return Math.Round(this.shippingAmount + this.productTotal + taxTotal, 2);
             }
         }
+
+        public int Id { get; set; }
+
+        public int CustomerId { get; set; }
+
+        public virtual Customer Customer { get; set; }
+
+        public virtual ICollection<OrderLine> Lines { get; set; }
+
+        public OrderStatus Status { get; set; }
+
+        public bool IsArchived { get; set; }
 
         public void CalculateTotals()
         {
-            this.ProductTotal = this.Lines.Sum(l => l.ExtendedProductAmount);
-            this.TaxTotal = this.Lines.Sum(l => l.ExtendedTax);
-        }
-
-        public void Post()
-        {
-            switch (this.Status)
-            {
-                case OrderStatus.Pending:
-                    this.Status = OrderStatus.Placed;
-
-                    foreach (OrderLine line in this.Lines)
-                    {
-                        line.Post();
-                        line.CalculateTax();
-                    }
-
-                    this.CalculateTotals();
-
-                    break;
-                case OrderStatus.Placed:
-
-                    break;
-                case OrderStatus.Shipped:
-
-                    break;
-                default:
-                    break;
-            }
+            this.ProductTotal = this.Lines.Where(l => !l.IsArchived).Sum(l => l.ExtendedProductAmount);
+            this.TaxTotal = this.Lines.Where(l => !l.IsArchived).Sum(l => l.ExtendedTaxAmount);
         }
     }
 }
