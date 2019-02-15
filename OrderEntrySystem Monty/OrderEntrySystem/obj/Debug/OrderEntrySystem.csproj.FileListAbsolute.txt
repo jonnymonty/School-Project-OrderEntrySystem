@@ -1,0 +1,499 @@
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\App.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\App.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.dll
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.xml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\1.1OrderEntrySystem\ADN OrderEntrySystem 1.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\EntityFramework.dll
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\EntityFramework.xml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\App.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\App.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+E:\NTC Fall 2017\Adv .Net\1.2OrderEntrySystem\ADN OrderEntrySystem 1.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\EntityFramework.dll
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\EntityFramework.xml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\App.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\App.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll.config
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll.config
+E:\NTC Fall 2017\Adv .Net\1.3OrderEntrySystem\ADN OrderEntrySystem 1.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.CoreCompileInputs.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.xml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\App.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\App.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.CoreCompileInputs.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\EntityFramework.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\EntityFramework.xml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\App.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\App.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.CoreCompileInputs.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.2 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\App.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\OrderLineView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\CategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\LocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\App.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\EntityFramework.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\EntityFramework.xml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\CustomerView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\ProductView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiProductView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiLocationView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\MultiOrderView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\OrderView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.3 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.CoreCompileInputs.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\EntityFramework.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll.config
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\EntityFramework.xml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\App.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\MultiEntityView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\App.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\MultiEntityView.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.CoreCompileInputs.cache
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\LP 2\ADN OrderEntrySystem 2.4 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.dll
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll.config
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll.config
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.xml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\App.baml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiEntityView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\App.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.baml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiEntityView.baml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.CoreCompileInputs.cache
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.dll
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll.config
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll.config
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.xml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\App.baml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.g.cs
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiEntityView.g.cs
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\App.g.cs
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\EntityView.baml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\MultiEntityView.baml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.cache
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.CoreCompileInputs.cache
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.CopyComplete
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+F:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb

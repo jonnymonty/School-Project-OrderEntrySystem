@@ -1,0 +1,9 @@
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverService\bin\Debug\FileMoverService.exe.config
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverService\bin\Debug\FileMoverService.exe
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverService\bin\Debug\FileMoverService.pdb
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverService\obj\Debug\FileMoverService.ProjectInstaller.resources
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverService\obj\Debug\FileMoverService.csproj.GenerateResource.Cache
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverService\obj\Debug\FileMoverService.csproj.CoreCompileInputs.cache
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverService\obj\Debug\FileMoverService.exe
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverService\obj\Debug\FileMoverService.pdb
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverService\obj\Debug\FileMoverService.csprojResolveAssemblyReference.cache

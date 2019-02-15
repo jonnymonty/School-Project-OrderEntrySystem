@@ -1,0 +1,7 @@
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverConsole\bin\Debug\FileMoverConsole.exe.config
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverConsole\bin\Debug\FileMoverConsole.exe
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverConsole\bin\Debug\FileMoverConsole.pdb
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverConsole\obj\Debug\FileMoverConsole.csprojResolveAssemblyReference.cache
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverConsole\obj\Debug\FileMoverConsole.csproj.CoreCompileInputs.cache
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverConsole\obj\Debug\FileMoverConsole.exe
+E:\NTC Fall 2017\Adv .Net\LP 4\ADN OrderEntrySystem 4.1 Monty\FileMoverConsole\obj\Debug\FileMoverConsole.pdb
